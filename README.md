@@ -1,13 +1,12 @@
-# 💫 About Me:
-I'm a passionate high school student from Egypt 
+# 💫 About Me
+19 yr Student passionate about programming 
 
-
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3marsav) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=omarwaelabdelhalim&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=omarwaelabdelhalim&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarwaelabdelhalim&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
