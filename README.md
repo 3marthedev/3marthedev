@@ -1,5 +1,5 @@
 # 💫 About Me
-19 yr Student passionate about programming 
+Student @FCAI-CU passionate about programming 
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3marsav) 
